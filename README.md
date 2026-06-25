@@ -1,17 +1,22 @@
 ````md
-<!-- Animated Header -->
+<!--==================== Header ====================-->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Diksha%20Garg&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:00C9FF,100:36D1DC&text=Diksha%20Garg&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Enthusiast%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1200&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Java+%7C+Python+%7C+DSA;Always+Learning+New+Technologies+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Full+Stack+Developer;Java+%7C+Python+%7C+DSA;Always+Learning+Something+New+🚀"/>
 </p>
 
-<!-- Coding GIF -->
 <p align="center">
-<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=diikshha&label=Profile%20Views&color=6C63FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/diikshha?logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/diikshha?logo=github&style=for-the-badge"/>
 </p>
 
 ---
@@ -30,59 +35,57 @@ Current Focus:
   - MERN Stack
   - Data Structures & Algorithms
 
-Languages:
-  - Java
-  - Python
-  - C++
-  - JavaScript
+Currently Working On:
+  - AI/ML Projects
+  - Full Stack Projects
+  - DSA
 
-Interests:
-  - AI
-  - Open Source
-  - Web Development
-  - Problem Solving
+Learning:
+  - MERN
+  - Deep Learning
+  - System Design
 
 Goal:
-  To become an AI Engineer and Software Developer
+  Become an AI Engineer & Software Developer
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,django,flask,tensorflow,git,github,linux,postman,vscode,figma,azure,aws&theme=dark&perline=8"/>
-
-</p>
-
----
-
-# 🏆 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/diiksha_25/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/diiikshaa">
-<img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
 
 <a href="https://linkedin.com/in/diksha-garg-3536a0343">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://github.com/diikshha">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/u/diiksha_25/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
+
+<a href="https://www.kaggle.com/diiikshaa">
+<img src="https://img.icons8.com/color/48/kaggle.png"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 💻 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,bootstrap,react,nodejs,express,mongodb,mysql,django,flask,tensorflow,git,github,linux,postman,vscode,figma,arduino,azure,aws&theme=dark&perline=8"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -108,33 +111,23 @@ Goal:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=diikshha&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diikshha&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diikshha&theme=algolia&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=diikshha&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💻 Random Dev Quote
+# 💭 Random Dev Quote
 
 <p align="center">
 
@@ -144,19 +137,27 @@ Goal:
 
 ---
 
-# ☕ Support
+# 🐍 Contribution Snake
+
+> **Enable this after creating the GitHub Action.**
 
 <p align="center">
 
-⭐ Star my repositories if you find them useful!
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+<img src="https://user-images.githubusercontent.com/74038190/216656971-9a4cb3a8-7d87-4b8b-bf8f-97d8f3d0b7b8.gif" width="320"/>
+
+</div>
+
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00C9FF,100:36D1DC"/>
 </p>
 ````

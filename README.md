@@ -1,4 +1,4 @@
-````md
+md
 <!--==================== Header ====================-->
 
 <p align="center">
@@ -160,4 +160,4 @@ Goal:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:00C9FF,100:36D1DC"/>
 </p>
-````
+
